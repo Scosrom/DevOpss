@@ -16,4 +16,4 @@
 
 ## Licencia
 
-![by](https://github.com/Scosrom/DevOps/assets/114906778/c937c8d4-e418-41cf-88f8-c781648318af)
+<p xmlns:cc="http://creativecommons.org/ns#" >Este trabajo está marcado con el destino <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" ="_blank" rel="licencia noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text -abajo;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p>
