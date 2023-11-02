@@ -11,5 +11,9 @@
 
 ## Referencias
 
+[RedHat](https://www.redhat.com/es/topics/devops)
+[Ibm](https://www.ibm.com/es-es/topics/devops)
 
 ## Licencia
+
+![by](https://github.com/Scosrom/DevOps/assets/114906778/c937c8d4-e418-41cf-88f8-c781648318af)
